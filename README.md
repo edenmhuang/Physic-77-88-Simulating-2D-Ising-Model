@@ -2,7 +2,7 @@
 |---|---|---|
 | ![T=1.0](equil_T1.gif) | ![T=2.269](equil_critical.gif) | ![T=3.5](equil_T3_5.gif) |
 
-# 2D Ising Model: Monte Carlo Simulation & Critical Phenomena
+## 2D Ising Model: Monte Carlo Simulation & Critical Phenomena
 
 A computational physics project simulating the 2D Ising model using the **Metropolis–Hastings algorithm** to study the ferromagnetic phase transition. Reproduces the critical temperature **Tc ≈ 2.269** (in units of J/kB) and generates figures for the accompanying report.
 
