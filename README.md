@@ -19,11 +19,7 @@ and get pretty close to the theoretical critical exponents
 is really close. Our δ was off by more, likely because we were 
 limited by lattice size and computational resources on a laptop.
 
-The hardest part for me was getting up to speed on the physics 
-side of things. Alex handled most of the statistical analysis 
-for the critical exponents while I focused on building the 
-simulation and setting up the repository. We wrote a full paper 
-on the project which is included in the repo.
+Wrote a full paper on the project which is included in the repo.
 
 ## What's in this repo
 
