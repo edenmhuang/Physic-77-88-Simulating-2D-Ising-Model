@@ -2,8 +2,7 @@
 
 Many physical systems have a critical point where they undergo 
 a phase transition, like water turning to ice or iron losing 
-its magnetism above a certain temperature. For our Physics 77/88 
-final project at UC Berkeley, Alex and I simulated the 2D Ising 
+its magnetism above a certain temperature. For this project we simulated the 2D Ising 
 model using the Metropolis-Hastings algorithm to study exactly 
 this kind of behavior and see if we could recover the critical 
 exponents from our own simulated data.
